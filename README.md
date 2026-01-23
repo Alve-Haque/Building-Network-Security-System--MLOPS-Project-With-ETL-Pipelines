@@ -4,6 +4,7 @@
 
 This project implements an **end‑to‑end Machine Learning Operations (MLOps) solution** focused on building a **network security system** that detects malicious network activity (e.g., phishing attacks) using supervised machine learning, structured ETL (Extract‑Transform‑Load) pipelines, automated workflows, artifact tracking, and cloud deployment. The system is packaged for scalable real‑world deployment with clear automation and monitoring practices, emphasizing both engineering rigor and operational readiness.
 
+![Network Security System Architecture](NS.png)
 ---
 
 ## Table of Contents
