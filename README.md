@@ -48,6 +48,12 @@ This system delivers measurable value to organizations that must protect users a
 
 ## 2. Architecture Summary
 
+
+
+
+
+
+
 The project’s end-to-end architecture typically follows these high-level layers:
 
 ```text
@@ -69,6 +75,13 @@ The project’s end-to-end architecture typically follows these high-level layer
 ```
 
 Components coordinate to ensure reproducibility from raw data → prediction.
+
+
+
+![Network Security System Architecture](images/ps.png)
+
+
+
 
 ---
 
@@ -120,6 +133,8 @@ Build preprocessors for ML model input.
 **Load**  
 Persist transformed data in MongoDB for efficient querying and model training.
 
+![Network Security System Architecture](images/etl2.png)
+
 ---
 
 ## 5. Machine Learning Lifecycle
@@ -135,6 +150,9 @@ The model lifecycle includes:
 
 By logging experiments and artifacts, the system supports reproducibility and auditability.
 
+![Network Security System Architecture](images/DTI.png)
+![Network Security System Architecture](images/DVAL.png)
+![Network Security System Architecture](images/DTrans.png)
 ---
 
 ## 6. Deployment & MLOps Practices
