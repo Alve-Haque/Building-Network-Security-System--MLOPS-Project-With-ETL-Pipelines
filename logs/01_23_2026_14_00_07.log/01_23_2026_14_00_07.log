@@ -1,0 +1,6 @@
+[ 2026-01-23 14:00:17,559 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-01-23 14:00:17,571 ] 107 dagshub - INFO - Accessing as Alve-Haque
+[ 2026-01-23 14:00:18,369 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Alve-Haque/Building-Network-Security-System--MLOPS-Project-With-ETL-Pipelines "HTTP/1.1 200 OK"
+[ 2026-01-23 14:00:19,161 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-01-23 14:00:19,163 ] 107 dagshub - INFO - Initialized MLflow to track repo "Alve-Haque/Building-Network-Security-System--MLOPS-Project-With-ETL-Pipelines"
+[ 2026-01-23 14:00:19,165 ] 107 dagshub - INFO - Repository Alve-Haque/Building-Network-Security-System--MLOPS-Project-With-ETL-Pipelines initialized!
